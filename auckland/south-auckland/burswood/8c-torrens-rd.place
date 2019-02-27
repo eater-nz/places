@@ -8,7 +8,8 @@ address:
   city: Auckland
 latlng: -36.9248846,174.8957215
 tags:
- - cantonese/hong-kong
+ - cantonese
+ - hong-kong
  - cheapeats
  - cheapeats-2019
 summary: The hustle is real and the menu is vast at Hungry Head, where the chef (ex-Kingston

@@ -8,7 +8,9 @@ address:
   city: Auckland
 latlng: -36.9039911,174.7421461
 tags:
- - malaysian/south-indian
+ - malaysian
+ - south-indian
+ - indian
  - vegetarian
  - vegan
  - cheapeats

@@ -8,7 +8,8 @@ address:
   city: Auckland
 latlng: -36.7169365,174.7487009
 tags:
- - ramen/japanese
+ - ramen
+ - japanese
  - licensed
  - vegetarian
  - vegan

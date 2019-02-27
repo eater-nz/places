@@ -8,7 +8,8 @@ address:
   city: Auckland
 latlng: -36.8851265,174.7147288
 tags:
- - shanghainese/cantonese
+ - shanghainese
+ - cantonese
  - cheapeats
  - cheapeats-2019
 summary: Open from 8.30am, the setting at this Mt Albert newbie is simple and the
