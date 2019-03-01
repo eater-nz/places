@@ -1,0 +1,16 @@
+name: Toto Pizza
+address:
+  street: Ponsonby Rd
+  number: 244
+  postCode: 1011
+  suburb: Ponsonby
+  district: Central Auckland
+  city: Auckland
+latlng: -36.8517258,174.7446445
+tags:
+ - cheapeats-2014
+ - cheapeats-2015
+ - pizza
+summary: 'Totó’s pizza-by-the-metre is among the best pizza anywhere, and perfect
+  for feeding a crowd. The crowning glory: spinach and mushroom with truffle oil and
+  pinenuts. They really love you with that truffle oil.'

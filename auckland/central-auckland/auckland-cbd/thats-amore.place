@@ -1,0 +1,15 @@
+name: That’s Amore
+address:
+  street: High St
+  number: 42
+  postCode: 1010
+  suburb: Auckland CBD
+  district: Central Auckland
+  city: Auckland
+latlng: -36.8481665,174.7665343
+tags:
+ - cheapeats-2014
+ - pizza
+summary: 'This cosy little Italian is a hidden treasure, serving authentic pizzas
+  with an impressive 40-plus toppings to choose from. Specially recommended: the salame
+  e funghi and the calzone 4 formaggi. Top-notch service and warm atmosphere.'

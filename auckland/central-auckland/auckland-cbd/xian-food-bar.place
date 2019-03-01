@@ -1,0 +1,17 @@
+name: Xi’an Food Bar
+address:
+  street: Anzac Ave
+  number: 11
+  postCode: 1010
+  suburb: Auckland CBD
+  district: Central Auckland
+  city: Auckland
+latlng: -36.8459459,174.771327
+tags:
+ - cheapeats-2014
+ - cheapeats-2015
+ - cheapeats-2016
+ - northern-chinese
+summary: 'Be sure to order the “Chinese burgers”: flat breads filled with minced pork
+  or lamb and spiced with cumin. But the real highlight are “biangbiang” noodles —
+  thick and rustic, best topped with braised pork.'

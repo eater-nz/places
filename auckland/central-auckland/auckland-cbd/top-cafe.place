@@ -1,0 +1,15 @@
+name: Top Cafe
+address:
+  street: Upper Queen St
+  number: 30
+  postCode: 1010
+  suburb: Auckland CBD
+  district: Central Auckland
+  city: Auckland
+latlng: -36.8596133,174.761135
+tags:
+ - cheapeats-2014
+ - chinese
+summary: 'They take their time here, though the wait is worth it: freshly made dumplings,
+  steamed or fried or boiled, 20 at a time for ridiculously low prices. Slowness aside,
+  service can also be brusque: somehow it’s part of the charm.'

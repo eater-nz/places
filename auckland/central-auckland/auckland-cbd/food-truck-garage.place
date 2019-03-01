@@ -1,0 +1,19 @@
+name: Food Truck Garage
+address:
+  street: Wellesley St W
+  number: 90
+  postCode: 1010
+  suburb: Auckland CBD
+  district: Central Auckland
+  city: Auckland
+latlng: -36.8497064,174.7583632
+tags:
+ - -burgers-
+ - cheapeats-2015
+ - cheapeats-2016
+ - salads
+summary: 'Food Truck Garage is seriously all about healthy eating: no-carb burger
+  salad, nut mince tacos, skinny cocktails and cold-pressed green detox juice, and
+  the new signature dish, an outstandingly delicious “redergise bowl” of quinoa, red
+  chard, beetroot, carrot, currants, flaxseeds and almonds in a miso dressing. And
+  yes, they still do the signature beefroot burger too.'

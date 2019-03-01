@@ -1,0 +1,15 @@
+name: Better Burger
+address:
+  street: Galway St
+  number: 31
+  postCode: 1010
+  suburb: Auckland CBD
+  district: Central Auckland
+  city: Auckland
+latlng: -36.844829,174.768641
+tags:
+ - burgers
+ - cheapeats-2014
+summary: Come here for top-quality burgers at the same price as big-chain processed
+  fare. It’s not flash or gourmet, just honest Americana made from good local ingredients.
+  Fries are cut on site — six minutes from raw potato to your plate.

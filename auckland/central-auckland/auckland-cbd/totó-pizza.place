@@ -1,0 +1,15 @@
+name: Totó Pizza
+address:
+  street: Nelson St
+  number: 51
+  postCode: 1010
+  suburb: Auckland CBD
+  district: Central Auckland
+  city: Auckland
+latlng: -36.8484081,174.759793
+tags:
+ - cheapeats-2014
+ - pizza
+summary: 'Totó’s pizza-by-the-metre is among the best pizza anywhere, and perfect
+  for feeding a crowd. The crowning glory: spinach and mushroom with truffle oil and
+  pinenuts. They really love you with that truffle oil.'
