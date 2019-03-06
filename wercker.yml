@@ -7,6 +7,7 @@ build:
           code: |
               mkdir generator
               mkdir generator/data
+              shopt -s extglob
               mv !(generator) generator/data
               ls -la
               ls generator/data -la
