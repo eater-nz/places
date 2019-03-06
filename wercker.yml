@@ -3,14 +3,12 @@ box: openjdk:8-jdk
 build:
   steps:
       - script:
-          name: install git
+          name: prepare folder
           code: |
-              apt-get update
-              apt-get install git -y
+              ls -la
       - script:
-          name: clone theme
+          name: get generator
           code: |
-              mkdir themes
               git clone --depth 1 https://github.com/eater-nz/api-generator generator/
       - wercker/maven:
           goals: install
