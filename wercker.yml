@@ -9,12 +9,12 @@ build:
               mkdir generator/data
               shopt -s extglob
               mv !(generator) generator/data
-              ls -la
-              ls generator/data -la
+              cd generator
       - script:
           name: get generator
           code: |
-              git clone --depth 1 https://github.com/eater-nz/api-generator generator/
+              git clone --depth 1 https://github.com/eater-nz/api-generator .
+              ls -lah
       - wercker/maven:
           goals: install
           cache_repo: true
