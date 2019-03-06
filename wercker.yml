@@ -5,7 +5,11 @@ build:
       - script:
           name: prepare folder
           code: |
+              mkdir generator
+              mkdir generator/data
+              mv !(generator) generator/data
               ls -la
+              ls generator/data -la
       - script:
           name: get generator
           code: |
