@@ -24,9 +24,9 @@ build:
           code: |
               git clone https://github.com/eater-nz/api-eater-nz api
               cd api
-              git config user.email "eater@wercker.com"
-              git config user.name "Wercker Eater"
+              git config user.email "`git --git-dir ../input/.git log -1 --pretty=%aN`"
+              git config user.email "`git --git-dir ../input/.git log -1 --pretty=%ae`"
               cp ../output/places.json .
               git add .
-              git commit -m "Updated places"
+              git commit -m "`git --git-dir ../input/.git log -1 --pretty=%B` (autocommit)"
               git log
