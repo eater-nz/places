@@ -19,7 +19,7 @@ build:
           goals: clean compile exec:java
           cache_repo: true
           version: 3.5.2
-      - publish:
+      - script:
           name: publish data
           code: |
               git clone https://github.com/eater-nz/api-eater-nz api
