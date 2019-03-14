@@ -5,18 +5,17 @@ build:
       - script:
           name: prepare folder
           code: |
+              rm wercker.yml
               mkdir input
               shopt -s extglob
               mv !(input) input/
-              ls -lah input/
               mkdir output
-              ls -lah
       - script:
           name: get generator
           code: |
               git clone --depth 1 https://github.com/eater-nz/api-generator generator
-              cd generator
       - wercker/maven:
+          cwd: ./generator/
           goals: clean compile exec:java
           cache_repo: true
           version: 3.5.2
