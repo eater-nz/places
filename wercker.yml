@@ -5,15 +5,15 @@ build:
       - script:
           name: prepare folder
           code: |
-              mkdir generator
-              mkdir generator/data
+              mkdir output
+              mkdir input
               shopt -s extglob
-              mv !(generator) generator/data
-              cd generator
+              mv !(input) input/
+              ls -lah
       - script:
           name: get generator
           code: |
-              git clone --depth 1 https://github.com/eater-nz/api-generator .
+              git clone --depth 1 https://github.com/eater-nz/api-generator genrator
               ls -lah
       - wercker/maven:
           goals: install
