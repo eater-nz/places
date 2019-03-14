@@ -25,9 +25,10 @@ build:
               ls -la ./
               git clone https://github.com/eater-nz/api-eater-nz api
               cd api
-              git config user.email "`git --git-dir ../.git log -1 --pretty=%aN`"
+              git config user.name "`git --git-dir ../.git log -1 --pretty=%an`"
               git config user.email "`git --git-dir ../.git log -1 --pretty=%ae`"
               cp ../output/places.json .
               git add .
               git commit -m "`git --git-dir ../.git log -1 --pretty=%B` (autocommit)"
               git log
+              cat places.json
