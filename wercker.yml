@@ -23,7 +23,10 @@ build:
           name: publish data
           code: |
               git clone https://github.com/eater-nz/api-eater-nz api
-              cp ./output/places.json api/
+              cd api
+              git config user.email "eater@wercker.com"
+              git config user.name "Wercker Eater"
+              cp ../output/places.json .
               git add .
               git commit -m "Updated places"
               git log
