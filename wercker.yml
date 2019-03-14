@@ -22,7 +22,7 @@ build:
       - script:
           name: publish data
           code: |
-              ls -la ../input/
+              ls -la ./input/
               git clone https://github.com/eater-nz/api-eater-nz api
               cd api
               git config user.email "`git --git-dir ../input/.git log -1 --pretty=%aN`"
