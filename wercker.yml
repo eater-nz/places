@@ -28,8 +28,6 @@ build:
       - script:
           name: publish data
           code: |
-              ssh -vvv git@github.com
-              git config core.sshCommand "ssh -vvv"
               git clone git@github.com:eater-nz/api-eater-nz.git api
               cd api
               git config user.name "`git --git-dir ../.git log -1 --pretty=%an`"
