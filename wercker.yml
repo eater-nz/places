@@ -19,16 +19,16 @@ build:
           goals: clean compile exec:java
           cache_repo: true
           version: 3.5.2
+      - add-ssh-key:
+          keyname: API_SSH_KEY
       - script:
           name: publish data
           code: |
-              ls -la ./
-              git clone https://github.com/eater-nz/api-eater-nz api
+              git clone git@github.com:eater-nz/api-eater-nz.git api
               cd api
               git config user.name "`git --git-dir ../.git log -1 --pretty=%an`"
               git config user.email "`git --git-dir ../.git log -1 --pretty=%ae`"
               cp ../output/places.json .
               git add .
-              git commit -m "`git --git-dir ../.git log -1 --pretty=%B` (autocommit)"
-              git log
-              cat places.json
+              git commit -m "`git --git-dir ../.git log -1 --pretty=%B` (autobuild)"
+              git push
