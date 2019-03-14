@@ -5,17 +5,18 @@ build:
       - script:
           name: prepare folder
           code: |
-              mkdir output
               mkdir input
               shopt -s extglob
               mv !(input) input/
+              ls -lah input/
+              mkdir output
               ls -lah
       - script:
           name: get generator
           code: |
-              git clone --depth 1 https://github.com/eater-nz/api-generator genrator
-              ls -lah
+              git clone --depth 1 https://github.com/eater-nz/api-generator generator
+              cd generator
       - wercker/maven:
-          goals: install
+          goals: exec:java
           cache_repo: true
           version: 3.5.2
