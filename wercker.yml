@@ -19,3 +19,11 @@ build:
           goals: clean compile exec:java
           cache_repo: true
           version: 3.5.2
+      - publish:
+          name: publish data
+          code: |
+              git clone https://github.com/eater-nz/api-eater-nz api
+              cp ./output/places.json api/
+              git add .
+              git commit -m "Updated places"
+              git log
