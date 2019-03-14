@@ -17,6 +17,6 @@ build:
               git clone --depth 1 https://github.com/eater-nz/api-generator generator
               cd generator
       - wercker/maven:
-          goals: exec:java
+          goals: clean compile exec:java
           cache_repo: true
           version: 3.5.2
