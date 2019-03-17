@@ -6,6 +6,21 @@ address:
   suburb: Sandringham
   district: Central Auckland
   city: Auckland
+id:
+ - google:ChIJ-VWvOYpGDW0RZ99vWeUVzfc
+permanentlyClosed: false
+openingHours:
+ - 'Monday: 11:00 AM – 2:00 PM, 5:30 – 9:30 PM'
+ - 'Tuesday: 11:00 AM – 2:00 PM, 5:30 – 9:30 PM'
+ - 'Wednesday: 11:00 AM – 2:00 PM, 5:30 – 9:30 PM'
+ - 'Thursday: 11:00 AM – 2:00 PM, 5:30 – 9:30 PM'
+ - 'Friday: 11:00 AM – 9:30 PM'
+ - 'Saturday: 12:00 – 9:30 PM'
+ - 'Sunday: 12:00 – 9:30 PM'
+phone: 09-849 6294
+rating: 4.1
+rating_count: 176
+website: http://7siri.com/
 latlng: -36.892201,174.736477
 tags:
  - cheapeats-2014

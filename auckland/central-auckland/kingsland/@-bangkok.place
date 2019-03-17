@@ -6,6 +6,21 @@ address:
   suburb: Kingsland
   district: Central Auckland
   city: Auckland
+id:
+ - google:ChIJOxcC87BHDW0RsYMX_dZIi2E
+permanentlyClosed: false
+openingHours:
+ - 'Monday: 5:00 – 10:30 PM'
+ - 'Tuesday: 5:00 – 10:30 PM'
+ - 'Wednesday: 5:00 – 10:30 PM'
+ - 'Thursday: 5:00 – 10:30 PM'
+ - 'Friday: 5:00 – 10:30 PM'
+ - 'Saturday: 5:00 – 10:30 PM'
+ - 'Sunday: 5:00 – 10:30 PM'
+phone: 09-849 6436
+rating: 4.2
+rating_count: 117
+website: https://at-bangkok.business.site/
 latlng: -36.8720007,174.7451775
 tags:
  - cheapeats-2014

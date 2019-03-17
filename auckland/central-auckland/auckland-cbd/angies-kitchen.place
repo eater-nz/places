@@ -6,6 +6,14 @@ address:
   suburb: Auckland CBD
   district: Central Auckland
   city: Auckland
+id:
+ - google:ChIJX88cO-RHDW0R21fXnJULMvk
+permanentlyClosed: false
+openingHours: null
+phone: 09-368 1618
+rating: 4.0
+rating_count: 25
+website: http://www.facebook.com/angieskitchen/
 latlng: -36.8545148,174.7663286
 tags:
  - cheapeats-2014

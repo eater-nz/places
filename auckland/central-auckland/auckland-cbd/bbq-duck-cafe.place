@@ -6,6 +6,21 @@ address:
   suburb: Auckland CBD
   district: Central Auckland
   city: Auckland
+id:
+ - google:ChIJST6enOVHDW0RG9tjM7E9zDg
+permanentlyClosed: false
+openingHours:
+ - 'Monday: 10:00 AM – 12:00 AM'
+ - 'Tuesday: 10:00 AM – 12:00 AM'
+ - 'Wednesday: 10:00 AM – 12:00 AM'
+ - 'Thursday: 10:00 AM – 12:00 AM'
+ - 'Friday: 10:00 AM – 12:00 AM'
+ - 'Saturday: 10:00 AM – 12:00 AM'
+ - 'Sunday: 10:00 AM – 12:00 AM'
+phone: 09-309 8588
+rating: 4.1
+rating_count: 179
+website:
 latlng: -36.8521181,174.7643182
 tags:
  - byo

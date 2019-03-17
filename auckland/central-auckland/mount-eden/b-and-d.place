@@ -6,6 +6,21 @@ address:
   suburb: Mount Eden
   district: Central Auckland
   city: Auckland
+id:
+ - google:ChIJ-cpJurVHDW0RmbfFlWFWBwE
+permanentlyClosed: false
+openingHours:
+ - 'Monday: 9:00 AM – 10:00 PM'
+ - 'Tuesday: 9:00 AM – 10:00 PM'
+ - 'Wednesday: 9:00 AM – 10:00 PM'
+ - 'Thursday: 9:00 AM – 10:00 PM'
+ - 'Friday: 9:00 AM – 10:00 PM'
+ - 'Saturday: 9:00 AM – 10:00 PM'
+ - 'Sunday: 9:00 AM – 3:00 PM'
+phone: 09-623 2123
+rating: 4.1
+rating_count: 34
+website:
 latlng: -36.87800530000001,174.7512653
 tags:
  - cheapeats-2014
