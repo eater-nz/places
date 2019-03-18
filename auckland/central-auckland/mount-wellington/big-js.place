@@ -1,11 +1,26 @@
 name: Big J’s
 address:
-  street: Melton Rd
-  number: 1
+  street: Melton Road
+  number: 4/1
   postCode: 1060
   suburb: Mount Wellington
   district: Central Auckland
   city: Auckland
+id:
+ - google:ChIJg4KpSDtJDW0RU8MsXLC9bic
+permanentlyClosed: false
+openingHours:
+ - 'Monday: Closed'
+ - 'Tuesday: 12:00 – 9:00 PM'
+ - 'Wednesday: 11:00 AM – 9:00 PM'
+ - 'Thursday: 11:00 AM – 9:00 PM'
+ - 'Friday: 11:00 AM – 9:00 PM'
+ - 'Saturday: 11:00 AM – 9:00 PM'
+ - 'Sunday: 11:00 AM – 8:30 PM'
+phone: 09-579 0340
+rating: 4.6
+rating_count: 587
+website: http://www.bigjs.co.nz/
 latlng: -36.912453,174.82608
 tags:
  - burgers

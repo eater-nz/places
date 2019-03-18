@@ -6,6 +6,21 @@ address:
   suburb: Avondale
   district: Central Auckland
   city: Auckland
+id:
+ - google:ChIJDzsEaM5GDW0R1KAbRRiU9U8
+permanentlyClosed: false
+openingHours:
+ - 'Monday: 11:00 AM – 11:00 PM'
+ - 'Tuesday: 11:00 AM – 11:00 PM'
+ - 'Wednesday: 11:00 AM – 11:00 PM'
+ - 'Thursday: 11:00 AM – 11:00 PM'
+ - 'Friday: 11:00 AM – 11:00 PM'
+ - 'Saturday: 11:00 AM – 11:00 PM'
+ - 'Sunday: 11:00 AM – 11:00 PM'
+phone: 09-828 4488
+rating: 4.0
+rating_count: 142
+website:
 latlng: -36.891718,174.6962566
 tags:
  - cheapeats-2014

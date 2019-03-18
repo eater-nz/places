@@ -6,6 +6,21 @@ address:
   suburb: Mount Albert
   district: Central Auckland
   city: Auckland
+id:
+ - google:ChIJjev72fZGDW0Re6tMbVSU1uw
+permanentlyClosed: false
+openingHours:
+ - 'Monday: 5:00 – 9:00 PM'
+ - 'Tuesday: 5:00 – 9:00 PM'
+ - 'Wednesday: 5:00 – 9:00 PM'
+ - 'Thursday: 4:00 – 9:00 PM'
+ - 'Friday: 4:00 – 10:00 PM'
+ - 'Saturday: 4:00 – 10:00 PM'
+ - 'Sunday: 4:00 – 10:00 PM'
+phone: 09-971 3836
+rating: 4.6
+rating_count: 360
+website: https://www.facebook.com/Chinoiserieltd/
 latlng: -36.8941552,174.726716
 tags:
  - -licensed

@@ -6,6 +6,21 @@ address:
   suburb: Mount Roskill
   district: Central Auckland
   city: Auckland
+id:
+ - google:ChIJ6RDiV-1GDW0RyPcXj07d1Yc
+permanentlyClosed: false
+openingHours:
+ - 'Monday: Closed'
+ - 'Tuesday: 10:30 AM – 9:30 PM'
+ - 'Wednesday: 10:30 AM – 9:30 PM'
+ - 'Thursday: 10:30 AM – 9:30 PM'
+ - 'Friday: 10:30 AM – 9:30 PM'
+ - 'Saturday: 10:30 AM – 9:30 PM'
+ - 'Sunday: 10:30 AM – 9:30 PM'
+phone: 09-620 5599
+rating: 4.4
+rating_count: 82
+website:
 latlng: -36.9006692,174.7214409
 tags:
  - cheapeats-2014

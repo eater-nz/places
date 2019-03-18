@@ -6,6 +6,21 @@ address:
   suburb: Glen Innes
   district: Central Auckland
   city: Auckland
+id:
+ - google:ChIJ2ffgO4dJDW0RZfrO-AcmHAY
+permanentlyClosed: false
+openingHours:
+ - 'Monday: 11:00 AM – 9:00 PM'
+ - 'Tuesday: 11:00 AM – 9:00 PM'
+ - 'Wednesday: 11:00 AM – 9:00 PM'
+ - 'Thursday: 11:00 AM – 9:00 PM'
+ - 'Friday: 11:00 AM – 9:00 PM'
+ - 'Saturday: 11:00 AM – 9:00 PM'
+ - 'Sunday: Closed'
+phone: 09-528 6236
+rating: 4.2
+rating_count: 47
+website:
 latlng: -36.8796842,174.855154
 tags:
  - byo

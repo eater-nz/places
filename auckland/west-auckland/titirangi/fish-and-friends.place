@@ -6,6 +6,21 @@ address:
   suburb: Titirangi
   district: West Auckland
   city: Auckland
+id:
+ - google:ChIJ51Vt5shDDW0REaH0XgHNjh0
+permanentlyClosed: false
+openingHours:
+ - 'Monday: Closed'
+ - 'Tuesday: 4:00 – 9:00 PM'
+ - 'Wednesday: 4:00 – 9:00 PM'
+ - 'Thursday: 4:00 – 9:00 PM'
+ - 'Friday: 4:00 – 9:00 PM'
+ - 'Saturday: 3:00 – 9:00 PM'
+ - 'Sunday: 3:00 – 9:00 PM'
+phone: 09-817 3826
+rating: 4.2
+rating_count: 102
+website: http://fishandfriends.co.nz/
 latlng: -36.937856,174.656496
 tags:
  - cheapeats-2016

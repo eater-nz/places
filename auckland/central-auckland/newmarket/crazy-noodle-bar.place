@@ -1,11 +1,19 @@
 name: Crazy Noodle Bar
 address:
-  street: Carlton Gore Rd
-  number: 110
+  street: Kent St
+  number: 4
   postCode: 1023
   suburb: Newmarket
   district: Central Auckland
   city: Auckland
+id:
+ - google:ChIJUc5h7HZIDW0Rm_KqasTTBNM
+permanentlyClosed: false
+openingHours: null
+phone:
+rating: 4.5
+rating_count: 2
+website:
 latlng: -36.865124,174.7772549
 tags:
  - cheapeats-2014

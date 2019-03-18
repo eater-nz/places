@@ -6,6 +6,21 @@ address:
   suburb: Auckland CBD
   district: Central Auckland
   city: Auckland
+id:
+ - google:ChIJSXnaO-VHDW0RtvRWeIpoEi4
+permanentlyClosed: false
+openingHours:
+ - 'Monday: 11:00 AM – 9:00 PM'
+ - 'Tuesday: 11:00 AM – 9:00 PM'
+ - 'Wednesday: 11:00 AM – 9:00 PM'
+ - 'Thursday: 11:00 AM – 9:00 PM'
+ - 'Friday: 11:00 AM – 9:00 PM'
+ - 'Saturday: 11:00 AM – 9:00 PM'
+ - 'Sunday: Closed'
+phone: 09-302 1838
+rating: 4.4
+rating_count: 423
+website: http://www.facebook.com/bannsang11/
 latlng: -36.8481246,174.7662765
 tags:
  - cheapeats-2015

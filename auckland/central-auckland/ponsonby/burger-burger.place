@@ -1,11 +1,26 @@
 name: Burger Burger
 address:
-  street: Ponsonby Rd
-  number: 136-146
+  street: Brown St
+  number: 4
   postCode: 1011
   suburb: Ponsonby
   district: Central Auckland
   city: Auckland
+id:
+ - google:ChIJ5SZ-k5ZHDW0RDmY10DEC7p8
+permanentlyClosed: false
+openingHours:
+ - 'Monday: 11:30 AM – 9:00 PM'
+ - 'Tuesday: 11:30 AM – 9:00 PM'
+ - 'Wednesday: 11:30 AM – 9:00 PM'
+ - 'Thursday: 11:30 AM – 9:00 PM'
+ - 'Friday: 11:30 AM – 9:00 PM'
+ - 'Saturday: 11:30 AM – 9:00 PM'
+ - 'Sunday: 11:30 AM – 9:00 PM'
+phone: 09-360 8030
+rating: 4.4
+rating_count: 458
+website: http://burgerburger.co.nz/
 latlng: -36.856142,174.746419
 tags:
  - burgers

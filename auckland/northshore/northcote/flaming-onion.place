@@ -6,6 +6,21 @@ address:
   suburb: Northcote
   district: Northshore
   city: Auckland
+id:
+ - google:ChIJXfoM9FY4DW0RDmCLLbckxFk
+permanentlyClosed: false
+openingHours:
+ - 'Monday: Closed'
+ - 'Tuesday: 4:00 – 8:30 PM'
+ - 'Wednesday: 4:00 – 8:30 PM'
+ - 'Thursday: 4:00 – 9:00 PM'
+ - 'Friday: 12:00 – 9:00 PM'
+ - 'Saturday: 1:00 – 9:00 PM'
+ - 'Sunday: 4:00 – 8:30 PM'
+phone: 09-419 0325
+rating: 4.4
+rating_count: 216
+website: http://www.theflamingonion.co.nz/
 latlng: -36.8018127,174.7344144
 tags:
  - burgers

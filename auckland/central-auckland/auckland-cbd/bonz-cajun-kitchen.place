@@ -6,6 +6,21 @@ address:
   suburb: Auckland CBD
   district: Central Auckland
   city: Auckland
+id:
+ - google:ChIJM5vkT-VHDW0RzeAT3Sil88w
+permanentlyClosed: false
+openingHours:
+ - 'Monday: 12:00 – 2:30 PM, 5:00 – 9:00 PM'
+ - 'Tuesday: 12:00 – 2:30 PM, 5:00 – 9:00 PM'
+ - 'Wednesday: 12:00 – 2:30 PM, 5:00 – 9:00 PM'
+ - 'Thursday: 12:00 – 2:30 PM, 5:00 – 9:00 PM'
+ - 'Friday: 12:00 – 2:30 PM, 5:00 – 9:00 PM'
+ - 'Saturday: 12:00 – 2:30 PM, 5:00 – 9:00 PM'
+ - 'Sunday: 12:00 – 2:30 PM, 5:00 – 9:00 PM'
+phone: 09-309 3025
+rating: 4.1
+rating_count: 29
+website:
 latlng: -36.8501665,174.7635232
 tags:
  - cheapeats-2014

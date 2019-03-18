@@ -6,6 +6,14 @@ address:
   suburb: Auckland CBD
   district: Central Auckland
   city: Auckland
+id:
+ - google:ChIJ2Y3X3-RHDW0Rbi2Bk_0wIqk
+permanentlyClosed: false
+openingHours: null
+phone:
+rating: 4.0
+rating_count: 4
+website:
 latlng: -36.8510683,174.7655619
 tags:
  - cheapeats-2014

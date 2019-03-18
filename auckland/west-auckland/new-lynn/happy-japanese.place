@@ -6,6 +6,21 @@ address:
   suburb: New Lynn
   district: West Auckland
   city: Auckland
+id:
+ - google:ChIJbYaUsU9BDW0RFo923XeWFqU
+permanentlyClosed: false
+openingHours:
+ - 'Monday: Closed'
+ - 'Tuesday: 5:30 – 10:15 PM'
+ - 'Wednesday: 5:30 – 10:15 PM'
+ - 'Thursday: 5:30 – 10:15 PM'
+ - 'Friday: 11:45 AM – 2:00 PM, 5:30 – 10:15 PM'
+ - 'Saturday: 11:45 AM – 2:00 PM, 5:30 – 10:15 PM'
+ - 'Sunday: 11:45 AM – 2:00 PM, 5:30 – 10:15 PM'
+phone: 09-826 0622
+rating: 4.5
+rating_count: 309
+website: http://www.musashirestaurant.co.nz/
 latlng: -36.9088788,174.6792902
 tags:
  - cheapeats-2015

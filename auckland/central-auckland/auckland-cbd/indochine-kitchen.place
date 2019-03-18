@@ -6,6 +6,21 @@ address:
   suburb: Auckland CBD
   district: Central Auckland
   city: Auckland
+id:
+ - google:ChIJ32JkbfxHDW0RytZXj7weFNU
+permanentlyClosed: false
+openingHours:
+ - 'Monday: 11:00 AM – 10:00 PM'
+ - 'Tuesday: 11:00 AM – 10:00 PM'
+ - 'Wednesday: 11:00 AM – 10:00 PM'
+ - 'Thursday: 11:00 AM – 12:00 AM'
+ - 'Friday: 11:00 AM – 12:00 AM'
+ - 'Saturday: 5:00 PM – 12:00 AM'
+ - 'Sunday: Closed'
+phone: 09-974 2895
+rating: 4.2
+rating_count: 111
+website: http://www.indochinekitchen.co.nz/
 latlng: -36.846146,174.768831
 tags:
  - cheapeats-2015

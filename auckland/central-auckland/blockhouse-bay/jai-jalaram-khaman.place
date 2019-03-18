@@ -6,8 +6,26 @@ address:
   suburb: Blockhouse Bay
   district: Central Auckland
   city: Auckland
+id:
+ - google:ChIJhQ2mJ5pGDW0RVaGrUQJjK7s
+permanentlyClosed: false
+openingHours:
+ - 'Monday: Closed'
+ - 'Tuesday: 5:00 – 9:00 PM'
+ - 'Wednesday: 5:00 – 9:00 PM'
+ - 'Thursday: 5:00 – 9:00 PM'
+ - 'Friday: 5:00 – 9:00 PM'
+ - 'Saturday: 11:00 AM – 9:00 PM'
+ - 'Sunday: 11:00 AM – 9:00 PM'
+phone: 09-627 6200
+rating: 4.6
+rating_count: 171
+website: http://jaijalaramkhaman.com/
 latlng: -36.91390519999999,174.7159447
 tags:
+ - cheapeats-2014
+ - cheapeats-2015
+ - cheapeats-2016
  - cheapeats-2018
  - cheapeats-2019
  - gujarati

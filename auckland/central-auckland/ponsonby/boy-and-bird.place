@@ -6,6 +6,21 @@ address:
   suburb: Ponsonby
   district: Central Auckland
   city: Auckland
+id:
+ - google:ChIJB8_UHpFHDW0RT6IzOEOwwMU
+permanentlyClosed: false
+openingHours:
+ - 'Monday: 11:00 AM – 10:00 PM'
+ - 'Tuesday: 11:00 AM – 10:00 PM'
+ - 'Wednesday: 11:00 AM – 10:00 PM'
+ - 'Thursday: 11:00 AM – 10:00 PM'
+ - 'Friday: 11:00 AM – 10:00 PM'
+ - 'Saturday: 11:00 AM – 10:00 PM'
+ - 'Sunday: 11:00 AM – 10:00 PM'
+phone: 09-361 3222
+rating: 4.3
+rating_count: 166
+website: http://boyandbird.co.nz/
 latlng: -36.8528145,174.744939
 tags:
  - cheapeats-2015

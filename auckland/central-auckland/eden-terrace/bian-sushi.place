@@ -6,6 +6,21 @@ address:
   suburb: Eden Terrace
   district: Central Auckland
   city: Auckland
+id:
+ - google:ChIJc0z24sJHDW0RJmeoHFIgw-w
+permanentlyClosed: false
+openingHours:
+ - 'Monday: 10:00 AM – 9:00 PM'
+ - 'Tuesday: 10:00 AM – 9:00 PM'
+ - 'Wednesday: 10:00 AM – 9:00 PM'
+ - 'Thursday: 10:00 AM – 9:00 PM'
+ - 'Friday: 10:00 AM – 9:00 PM'
+ - 'Saturday: 10:00 AM – 9:00 PM'
+ - 'Sunday: Closed'
+phone: 09-309 5609
+rating: 4.3
+rating_count: 134
+website: http://www.biansushi.co.nz/
 latlng: -36.863015,174.7609685
 tags:
  - cheapeats-2015

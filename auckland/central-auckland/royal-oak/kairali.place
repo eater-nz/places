@@ -6,6 +6,21 @@ address:
   suburb: Royal Oak
   district: Central Auckland
   city: Auckland
+id:
+ - google:ChIJt10rHqdIDW0R0tNomwEWyIU
+permanentlyClosed: false
+openingHours:
+ - 'Monday: 5:00 – 10:00 PM'
+ - 'Tuesday: 5:00 – 10:00 PM'
+ - 'Wednesday: 12:00 – 3:00 PM, 5:00 – 10:00 PM'
+ - 'Thursday: 12:00 – 3:00 PM, 5:00 – 10:00 PM'
+ - 'Friday: 12:00 – 3:00 PM, 5:00 – 10:00 PM'
+ - 'Saturday: 12:00 – 10:00 PM'
+ - 'Sunday: 12:00 – 10:00 PM'
+phone: 09-624 5859
+rating: 3.7
+rating_count: 256
+website: https://www.kairali.co.nz/
 latlng: -36.9109469,174.7761122
 tags:
  - cheapeats-2014

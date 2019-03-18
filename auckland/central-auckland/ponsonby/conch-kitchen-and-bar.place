@@ -6,6 +6,21 @@ address:
   suburb: Ponsonby
   district: Central Auckland
   city: Auckland
+id:
+ - google:ChIJ4e3moZZHDW0RdqoEf4LfwPQ
+permanentlyClosed: false
+openingHours:
+ - 'Monday: 4:00 – 11:00 PM'
+ - 'Tuesday: 4:00 – 11:00 PM'
+ - 'Wednesday: 4:00 – 11:00 PM'
+ - 'Thursday: 4:00 – 11:00 PM'
+ - 'Friday: 12:00 – 11:00 PM'
+ - 'Saturday: 12:00 – 11:00 PM'
+ - 'Sunday: 12:00 – 11:00 PM'
+phone: 09-360 1999
+rating: 4.4
+rating_count: 207
+website: https://www.conch.co.nz/
 latlng: -36.855832,174.7466619
 tags:
  - cheapeats-2014

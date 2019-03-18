@@ -6,6 +6,21 @@ address:
   suburb: Epsom
   district: Central Auckland
   city: Auckland
+id:
+ - google:ChIJw5qDRZ1IDW0RGfVuyxI2YGo
+permanentlyClosed: false
+openingHours:
+ - 'Monday: Closed'
+ - 'Tuesday: 11:00 AM – 3:00 PM, 5:00 – 9:30 PM'
+ - 'Wednesday: 11:00 AM – 3:00 PM, 5:00 – 9:30 PM'
+ - 'Thursday: 11:00 AM – 3:00 PM, 5:00 – 9:30 PM'
+ - 'Friday: 11:00 AM – 3:00 PM, 5:00 – 9:30 PM'
+ - 'Saturday: 11:00 AM – 3:00 PM, 5:00 – 9:30 PM'
+ - 'Sunday: 11:00 AM – 3:00 PM, 5:00 – 9:30 PM'
+phone: 09-630 3555
+rating: 4.0
+rating_count: 482
+website: http://www.kkmalaysia.co.nz/
 latlng: -36.89387079999999,174.7741072
 tags:
  - cheapeats-2014

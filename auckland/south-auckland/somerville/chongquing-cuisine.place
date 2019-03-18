@@ -6,6 +6,21 @@ address:
   suburb: Somerville
   district: South Auckland
   city: Auckland
+id:
+ - google:ChIJJdHL20dLDW0RAtDPnYZWY1c
+permanentlyClosed: false
+openingHours:
+ - 'Monday: Closed'
+ - 'Tuesday: 11:00 AM – 9:00 PM'
+ - 'Wednesday: 11:00 AM – 9:00 PM'
+ - 'Thursday: 11:00 AM – 9:00 PM'
+ - 'Friday: 11:00 AM – 9:00 PM'
+ - 'Saturday: 11:00 AM – 9:00 PM'
+ - 'Sunday: 11:00 AM – 9:00 PM'
+phone: 09-535 3363
+rating: 4.4
+rating_count: 16
+website:
 latlng: -36.9127018,174.9294354
 tags:
  - cheapeats-2016

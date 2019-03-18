@@ -6,6 +6,21 @@ address:
   suburb: Mount Eden
   district: Central Auckland
   city: Auckland
+id:
+ - google:ChIJOyz2LUlGDW0R3F2663j5_4I
+permanentlyClosed: false
+openingHours:
+ - 'Monday: 5:00 – 9:00 PM'
+ - 'Tuesday: 5:00 – 9:00 PM'
+ - 'Wednesday: 5:00 – 9:00 PM'
+ - 'Thursday: 5:00 – 9:30 PM'
+ - 'Friday: 5:00 – 10:00 PM'
+ - 'Saturday: 12:00 – 10:00 PM'
+ - 'Sunday: 12:00 – 9:00 PM'
+phone: 09-600 3076
+rating: 4.4
+rating_count: 675
+website: http://www.kisskisseatery.com/#/
 latlng: -36.8886118,174.7475068
 tags:
  - -licensed

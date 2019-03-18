@@ -6,6 +6,21 @@ address:
   suburb: Burswood
   district: South Auckland
   city: Auckland
+id:
+ - google:ChIJs6qA1INLDW0RtU2dhNRmNEs
+permanentlyClosed: false
+openingHours:
+ - 'Monday: 11:00 AM – 9:00 PM'
+ - 'Tuesday: 11:00 AM – 9:00 PM'
+ - 'Wednesday: Closed'
+ - 'Thursday: 11:00 AM – 9:00 PM'
+ - 'Friday: 11:00 AM – 9:00 PM'
+ - 'Saturday: 11:00 AM – 9:00 PM'
+ - 'Sunday: 11:00 AM – 9:00 PM'
+phone: 09-274 4622
+rating: 4.3
+rating_count: 178
+website:
 latlng: -36.9248846,174.8957215
 tags:
  - cantonese

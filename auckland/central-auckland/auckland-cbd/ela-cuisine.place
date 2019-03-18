@@ -6,6 +6,21 @@ address:
   suburb: Auckland CBD
   district: Central Auckland
   city: Auckland
+id:
+ - google:ChIJvSHcE8OmLwARQOsqj0SjFgc
+permanentlyClosed: false
+openingHours:
+ - 'Monday: 11:45 AM – 2:45 PM, 5:00 – 9:30 PM'
+ - 'Tuesday: 11:45 AM – 2:45 PM, 5:00 – 9:30 PM'
+ - 'Wednesday: 11:45 AM – 2:45 PM, 5:00 – 9:30 PM'
+ - 'Thursday: 11:45 AM – 2:45 PM, 5:00 – 9:30 PM'
+ - 'Friday: 11:45 AM – 2:45 PM, 5:00 – 9:30 PM'
+ - 'Saturday: 11:45 AM – 2:45 PM, 5:00 – 9:30 PM'
+ - 'Sunday: 11:45 AM – 2:45 PM, 5:00 – 9:30 PM'
+phone: 09-379 2710
+rating: 4.2
+rating_count: 108
+website: http://elacuisine.co.nz/
 latlng: -36.8501665,174.7635232
 tags:
  - cheapeats-2015

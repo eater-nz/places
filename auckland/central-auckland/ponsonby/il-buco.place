@@ -6,6 +6,21 @@ address:
   suburb: Ponsonby
   district: Central Auckland
   city: Auckland
+id:
+ - google:ChIJ-6o0n5ZHDW0RqKr3dK2bvZY
+permanentlyClosed: false
+openingHours:
+ - 'Monday: 7:00 AM – 7:00 PM'
+ - 'Tuesday: 6:00 AM – 9:00 PM'
+ - 'Wednesday: 6:00 AM – 9:00 PM'
+ - 'Thursday: 6:00 AM – 9:00 PM'
+ - 'Friday: 6:00 AM – 9:00 PM'
+ - 'Saturday: 6:00 AM – 9:00 PM'
+ - 'Sunday: 7:00 AM – 7:00 PM'
+phone: 09-360 4414
+rating: 4.6
+rating_count: 15
+website: http://website-604110088131588284516-restaurant.business.site/
 latlng: -36.8558698,174.7469
 tags:
  - cheapeats-2014

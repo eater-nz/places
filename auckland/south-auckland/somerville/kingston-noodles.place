@@ -6,6 +6,21 @@ address:
   suburb: Somerville
   district: South Auckland
   city: Auckland
+id:
+ - google:ChIJbYu_eUhLDW0RvzvrAEy1rH0
+permanentlyClosed: false
+openingHours:
+ - 'Monday: 11:00 AM – 8:30 PM'
+ - 'Tuesday: 11:00 AM – 8:30 PM'
+ - 'Wednesday: 11:00 AM – 8:30 PM'
+ - 'Thursday: Closed'
+ - 'Friday: 11:00 AM – 8:30 PM'
+ - 'Saturday: 11:00 AM – 8:30 PM'
+ - 'Sunday: 11:00 AM – 8:30 PM'
+phone: 09-537 5333
+rating: 4.3
+rating_count: 160
+website:
 latlng: -36.9127018,174.9294354
 tags:
  - cantonese/hong-kong

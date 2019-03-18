@@ -6,6 +6,21 @@ address:
   suburb: Mount Roskill
   district: Central Auckland
   city: Auckland
+id:
+ - google:ChIJadVPxEJGDW0RenLUZPT-G0k
+permanentlyClosed: false
+openingHours:
+ - 'Monday: 3:00 PM – 12:30 AM'
+ - 'Tuesday: 3:00 PM – 12:30 AM'
+ - 'Wednesday: 3:00 PM – 12:30 AM'
+ - 'Thursday: 3:00 PM – 12:30 AM'
+ - 'Friday: 3:00 PM – 12:30 AM'
+ - 'Saturday: 11:30 AM – 12:30 AM'
+ - 'Sunday: 11:30 AM – 12:00 AM'
+phone: 09-550 7775
+rating: 4.0
+rating_count: 218
+website: http://www.jstea.co.nz/
 latlng: -36.9006153,174.7425776
 tags:
  - cheapeats-2019

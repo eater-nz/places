@@ -6,6 +6,21 @@ address:
   suburb: Birkenhead
   district: Northshore
   city: Auckland
+id:
+ - google:ChIJwaPolPM4DW0RHSKdXsNmYe0
+permanentlyClosed: false
+openingHours:
+ - 'Monday: Closed'
+ - 'Tuesday: 11:00 AM – 3:00 PM, 5:30 – 9:00 PM'
+ - 'Wednesday: 11:00 AM – 3:00 PM, 5:30 – 9:00 PM'
+ - 'Thursday: 11:00 AM – 3:00 PM, 5:30 – 9:00 PM'
+ - 'Friday: 11:00 AM – 3:00 PM, 5:30 – 9:00 PM'
+ - 'Saturday: 11:00 AM – 3:00 PM, 5:30 – 9:00 PM'
+ - 'Sunday: 11:00 AM – 3:00 PM, 5:30 – 9:00 PM'
+phone: 09-419 9788
+rating: 4.2
+rating_count: 105
+website:
 latlng: -36.8119678,174.7252316
 tags:
  - cheapeats-2014

@@ -6,6 +6,21 @@ address:
   suburb: Henderson
   district: West Auckland
   city: Auckland
+id:
+ - google:ChIJwW7-L0JADW0RYjZMXxB6Z5M
+permanentlyClosed: false
+openingHours:
+ - 'Monday: 10:00 AM – 9:00 PM'
+ - 'Tuesday: 10:00 AM – 10:00 PM'
+ - 'Wednesday: 10:00 AM – 10:00 PM'
+ - 'Thursday: 10:00 AM – 10:00 PM'
+ - 'Friday: 10:00 AM – 10:00 PM'
+ - 'Saturday: 10:00 AM – 10:00 PM'
+ - 'Sunday: 10:00 AM – 10:00 PM'
+phone: 09-835 3565
+rating: 4.0
+rating_count: 416
+website: http://www.bikanervalahenderson.co.nz/
 latlng: -36.8565989,174.6329381
 tags:
  - cheapeats-2016

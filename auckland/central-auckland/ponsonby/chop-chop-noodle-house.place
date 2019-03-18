@@ -6,6 +6,21 @@ address:
   suburb: Ponsonby
   district: Central Auckland
   city: Auckland
+id:
+ - google:ChIJH7sEmpZHDW0RQ5qlm-TiyzM
+permanentlyClosed: false
+openingHours:
+ - 'Monday: 12:00 – 11:00 PM'
+ - 'Tuesday: 12:00 – 11:00 PM'
+ - 'Wednesday: 12:00 – 11:00 PM'
+ - 'Thursday: 12:00 – 11:00 PM'
+ - 'Friday: 12:00 – 11:00 PM'
+ - 'Saturday: 12:00 – 11:00 PM'
+ - 'Sunday: 12:00 – 11:00 PM'
+phone: 09-360 0708
+rating: 4.6
+rating_count: 211
+website: http://www.ponsonbychopchop.co.nz/
 latlng: -36.856142,174.746419
 tags:
  - cheapeats-2014

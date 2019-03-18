@@ -6,6 +6,21 @@ address:
   suburb: Auckland CBD
   district: Central Auckland
   city: Auckland
+id:
+ - google:ChIJj2Mmn-VHDW0RquF2U_rbvoo
+permanentlyClosed: false
+openingHours:
+ - 'Monday: 9:30 AM – 8:30 PM'
+ - 'Tuesday: 9:30 AM – 8:30 PM'
+ - 'Wednesday: 9:30 AM – 8:30 PM'
+ - 'Thursday: 9:30 AM – 8:30 PM'
+ - 'Friday: 9:30 AM – 8:30 PM'
+ - 'Saturday: 9:30 AM – 8:30 PM'
+ - 'Sunday: 11:00 AM – 8:30 PM'
+phone: 0210 700 666
+rating: 3.4
+rating_count: 46
+website: http://bombaychinese.co.nz/
 latlng: -36.8529045,174.7641725
 tags:
  - cheapeats-2014

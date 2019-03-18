@@ -6,6 +6,21 @@ address:
   suburb: Mount Eden
   district: Central Auckland
   city: Auckland
+id:
+ - google:ChIJIwQmEUxGDW0RtN-RPQoZh_w
+permanentlyClosed: false
+openingHours:
+ - 'Monday: 5:30 PM – 2:00 AM'
+ - 'Tuesday: 5:30 PM – 2:00 AM'
+ - 'Wednesday: 5:30 PM – 2:00 AM'
+ - 'Thursday: 5:30 PM – 2:00 AM'
+ - 'Friday: 5:30 PM – 2:00 AM'
+ - 'Saturday: 5:30 PM – 2:00 AM'
+ - 'Sunday: 5:30 PM – 2:00 AM'
+phone: 09-638 8365
+rating: 4.0
+rating_count: 402
+website:
 latlng: -36.8880821,174.7469403
 tags:
  - -byo

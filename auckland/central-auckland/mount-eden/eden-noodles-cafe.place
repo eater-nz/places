@@ -6,6 +6,21 @@ address:
   suburb: Mount Eden
   district: Central Auckland
   city: Auckland
+id:
+ - google:ChIJpREn3rdHDW0RkSvokcaClVo
+permanentlyClosed: false
+openingHours:
+ - 'Monday: 11:00 AM – 9:30 PM'
+ - 'Tuesday: 11:00 AM – 9:30 PM'
+ - 'Wednesday: 11:00 AM – 9:30 PM'
+ - 'Thursday: 11:00 AM – 9:30 PM'
+ - 'Friday: 11:00 AM – 9:30 PM'
+ - 'Saturday: 11:00 AM – 9:30 PM'
+ - 'Sunday: 11:00 AM – 9:30 PM'
+phone: 09-630 1899
+rating: 4.4
+rating_count: 372
+website: https://edennoodles.business.site/
 latlng: -36.8719555,174.7521116
 tags:
  - cheapeats-2014

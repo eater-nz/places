@@ -6,6 +6,21 @@ address:
   suburb: Ponsonby
   district: Central Auckland
   city: Auckland
+id:
+ - google:ChIJXXA0ApFHDW0RTVmm1F3HBY4
+permanentlyClosed: false
+openingHours:
+ - 'Monday: 7:30 AM – 9:00 PM'
+ - 'Tuesday: 7:30 AM – 9:00 PM'
+ - 'Wednesday: 7:30 AM – 9:00 PM'
+ - 'Thursday: 7:30 AM – 9:30 PM'
+ - 'Friday: 7:30 AM – 9:30 PM'
+ - 'Saturday: 8:00 AM – 9:00 PM'
+ - 'Sunday: 8:00 AM – 9:00 PM'
+phone: 09-361 3407
+rating: 4.0
+rating_count: 204
+website: http://birdonawire.co.nz/
 latlng: -36.8520771,174.7447099
 tags:
  - cheapeats-2014

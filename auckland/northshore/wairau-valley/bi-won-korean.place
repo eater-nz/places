@@ -6,6 +6,14 @@ address:
   suburb: Wairau Valley
   district: Northshore
   city: Auckland
+id:
+ - google:ChIJWeHFSJs5DW0RZ-7pXd3mFzs
+permanentlyClosed: false
+openingHours: null
+phone: 09-443 6761
+rating: 4.2
+rating_count: 194
+website:
 latlng: -36.7629622,174.7373101
 tags:
  - byo

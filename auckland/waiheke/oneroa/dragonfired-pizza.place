@@ -1,0 +1,32 @@
+name: Dragonfired Pizza
+address:
+  street: Goodwin Ave
+  number: 1
+  postCode: 1081
+  suburb: Oneroa
+  district: Waiheke
+  city: Auckland
+id:
+ - google:ChIJxxpWsODLcm0R1tbmwmH4VSQ
+permanentlyClosed: false
+openingHours:
+ - 'Monday: 10:00 AM – 8:00 PM'
+ - 'Tuesday: 10:00 AM – 8:00 PM'
+ - 'Wednesday: 10:00 AM – 8:00 PM'
+ - 'Thursday: 10:00 AM – 8:00 PM'
+ - 'Friday: 10:00 AM – 8:00 PM'
+ - 'Saturday: 10:00 AM – 8:00 PM'
+ - 'Sunday: 10:00 AM – 8:00 PM'
+phone: 021 922 289
+rating: 4.6
+rating_count: 89
+website: https://dragonfired.co.nz/
+latlng: -36.7850428,175.0188593
+tags:
+ - cheapeats-2014
+ - cheapeats-2015
+ - cheapeats-2016
+ - pizza
+summary: This woodfired oven in a caravan churns out food perfect for eating on the
+  beach. Don’t be in a hurry — it’s all about island time here. The pizza, pockets
+  breads and calzone are all fresher than fresh, with wonderful Mediterranean fillings.

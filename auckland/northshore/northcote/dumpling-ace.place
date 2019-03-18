@@ -6,6 +6,21 @@ address:
   suburb: Northcote
   district: Northshore
   city: Auckland
+id:
+ - google:ChIJiW2yoU44DW0RWhWwx4uWACQ
+permanentlyClosed: false
+openingHours:
+ - 'Monday: 11:00 AM – 9:00 PM'
+ - 'Tuesday: 11:00 AM – 9:00 PM'
+ - 'Wednesday: 11:00 AM – 9:00 PM'
+ - 'Thursday: 11:00 AM – 9:00 PM'
+ - 'Friday: 11:00 AM – 9:00 PM'
+ - 'Saturday: 11:00 AM – 9:00 PM'
+ - 'Sunday: 11:00 AM – 9:00 PM'
+phone: 09-480 4898
+rating: 4.3
+rating_count: 60
+website:
 latlng: -36.8008117,174.7462563
 tags:
  - cheapeats-2014

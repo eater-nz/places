@@ -6,6 +6,21 @@ address:
   suburb: Sandringham
   district: Central Auckland
   city: Auckland
+id:
+ - google:ChIJDQ9g_VlGDW0R02QJqBqTtiY
+permanentlyClosed: false
+openingHours:
+ - 'Monday: 11:00 AM – 10:15 PM'
+ - 'Tuesday: 11:00 AM – 10:15 PM'
+ - 'Wednesday: 11:00 AM – 10:15 PM'
+ - 'Thursday: 11:00 AM – 10:15 PM'
+ - 'Friday: 11:00 AM – 10:15 PM'
+ - 'Saturday: 11:00 AM – 10:15 PM'
+ - 'Sunday: 11:00 AM – 10:15 PM'
+phone: 09-845 5525
+rating: 4.1
+rating_count: 902
+website: https://www.bawarchi.co.nz/
 latlng: -36.8915481,174.736027
 tags:
  - cheapeats-2014

@@ -6,6 +6,21 @@ address:
   suburb: Mount Eden
   district: Central Auckland
   city: Auckland
+id:
+ - google:ChIJNaJ3xbVHDW0RJbx7-_JiP7A
+permanentlyClosed: false
+openingHours:
+ - 'Monday: 11:00 AM – 9:00 PM'
+ - 'Tuesday: 11:00 AM – 9:00 PM'
+ - 'Wednesday: 11:00 AM – 9:00 PM'
+ - 'Thursday: 11:00 AM – 9:00 PM'
+ - 'Friday: 11:00 AM – 9:00 PM'
+ - 'Saturday: 11:00 AM – 9:00 PM'
+ - 'Sunday: 11:00 AM – 9:00 PM'
+phone: 09-930 0276
+rating: 4.4
+rating_count: 58
+website: http://guilinricenoodles.co.nz/
 latlng: -36.8768737,174.750523
 tags:
  - cheapeats-2019

@@ -6,6 +6,21 @@ address:
   suburb: Pakuranga
   district: South Auckland
   city: Auckland
+id:
+ - google:ChIJbQyOdulLDW0RCdOKwyayIVc
+permanentlyClosed: false
+openingHours:
+ - 'Monday: 11:00 AM – 3:00 PM, 5:00 – 9:30 PM'
+ - 'Tuesday: Closed'
+ - 'Wednesday: 11:00 AM – 3:00 PM, 5:00 – 9:30 PM'
+ - 'Thursday: 11:00 AM – 3:00 PM, 5:00 – 9:30 PM'
+ - 'Friday: 11:00 AM – 3:00 PM, 5:00 – 9:30 PM'
+ - 'Saturday: 11:00 AM – 9:30 PM'
+ - 'Sunday: 11:00 AM – 9:30 PM'
+phone: 09-576 6663
+rating: 4.2
+rating_count: 164
+website:
 latlng: -36.9110255,174.8715109
 tags:
  - cheapeats-2016

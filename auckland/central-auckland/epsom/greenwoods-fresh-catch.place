@@ -6,6 +6,21 @@ address:
   suburb: Epsom
   district: Central Auckland
   city: Auckland
+id:
+ - google:ChIJgcpaoiBGDW0R5SEZqRxXoHQ
+permanentlyClosed: false
+openingHours:
+ - 'Monday: 4:30 – 8:00 PM'
+ - 'Tuesday: 4:30 – 8:00 PM'
+ - 'Wednesday: 4:30 – 8:00 PM'
+ - 'Thursday: 4:30 – 8:00 PM'
+ - 'Friday: 4:30 – 8:00 PM'
+ - 'Saturday: 4:30 – 8:00 PM'
+ - 'Sunday: 4:30 – 8:00 PM'
+phone: 09-631 0111
+rating: 4.1
+rating_count: 33
+website:
 latlng: -36.8997049,174.7728832
 tags:
  - cheapeats-2014

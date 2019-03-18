@@ -6,6 +6,21 @@ address:
   suburb: Grey Lynn
   district: Central Auckland
   city: Auckland
+id:
+ - google:ChIJ263pbZlHDW0RBu38MGq4m1c
+permanentlyClosed: false
+openingHours:
+ - 'Monday: Closed'
+ - 'Tuesday: 5:00 – 11:00 PM'
+ - 'Wednesday: 5:00 – 11:00 PM'
+ - 'Thursday: 5:00 – 11:00 PM'
+ - 'Friday: 5:00 – 11:00 PM'
+ - 'Saturday: 5:00 – 11:00 PM'
+ - 'Sunday: Closed'
+phone: 09-361 1593
+rating: 4.5
+rating_count: 97
+website: http://epolitospizzeria.co.nz/
 latlng: -36.8551201,174.7386652
 tags:
  - -licensed-

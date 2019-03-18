@@ -6,6 +6,21 @@ address:
   suburb: Auckland CBD
   district: Central Auckland
   city: Auckland
+id:
+ - google:ChIJ58IcRrNIDW0RXVeAwkNiv4U
+permanentlyClosed: false
+openingHours:
+ - 'Monday: 11:00 AM – 10:00 PM'
+ - 'Tuesday: 11:00 AM – 10:00 PM'
+ - 'Wednesday: 11:00 AM – 4:00 AM'
+ - 'Thursday: 11:00 AM – 4:00 AM'
+ - 'Friday: 11:00 AM – 4:00 AM'
+ - 'Saturday: 11:00 AM – 4:00 AM'
+ - 'Sunday: 11:00 AM – 10:00 PM'
+phone:
+rating: 3.7
+rating_count: 224
+website: http://www.betterburger.co.nz/
 latlng: -36.844829,174.768641
 tags:
  - burgers
