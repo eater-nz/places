@@ -1,0 +1,14 @@
+name: 16 Tun
+address:
+  street: Jellicoe St
+  number: 10/26
+  postCode: 1050
+  suburb: Auckland CBD
+  district: Central Auckland
+  city: Auckland
+id:
+ - google:ChIJX88cO-RHDW0R21fXnJULMvk
+latlng: -36.841031,174.756339
+tags:
+ - craft-beer
+summary: Might be the best beer spot in the Auckland. 10+ beers on frequently rotating taps, good food and nice atmosphere.
