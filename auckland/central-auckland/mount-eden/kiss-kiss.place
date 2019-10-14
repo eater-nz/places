@@ -8,7 +8,6 @@ address:
   city: Auckland
 id:
  - google:ChIJOyz2LUlGDW0R3F2663j5_4I
-permanentlyClosed: false
 openingHours:
  - 'Monday: 5:00 – 9:00 PM'
  - 'Tuesday: 5:00 – 9:00 PM'
@@ -26,6 +25,7 @@ tags:
  - -licensed
  - cheapeats-2016
  - cheapeats-2018
+ - cheapeats-2020
  - licensed
  - northern-thai
  - thai

@@ -8,7 +8,6 @@ address:
   city: Auckland
 id:
  - google:ChIJNaJ3xbVHDW0RJbx7-_JiP7A
-permanentlyClosed: false
 openingHours:
  - 'Monday: 11:00 AM – 9:00 PM'
  - 'Tuesday: 11:00 AM – 9:00 PM'
@@ -24,6 +23,7 @@ website: http://guilinricenoodles.co.nz/
 latlng: -36.8768737,174.750523
 tags:
  - cheapeats-2019
+ - cheapeats-2020
  - guilin
  - noodles
  - vegan

@@ -8,7 +8,6 @@ address:
   city: Auckland
 id:
  - google:ChIJST6enOVHDW0RG9tjM7E9zDg
-permanentlyClosed: false
 openingHours:
  - 'Monday: 10:00 AM – 12:00 AM'
  - 'Tuesday: 10:00 AM – 12:00 AM'
@@ -20,7 +19,6 @@ openingHours:
 phone: 09-309 8588
 rating: 4.1
 rating_count: 179
-website:
 latlng: -36.8521181,174.7643182
 tags:
  - byo
@@ -28,6 +26,7 @@ tags:
  - cheapeats-2018
  - cheapeats-2019
  - licensed
+ - open-late
 summary: An affordable, bright, energetic dining room right near the Civic and the
   Aotea Centre — this is the ideal corner bolthole for a pre- or post-theatre feed.
   The king-prawn crispy fried-egg noodles are heaped with prawns almost as crispy

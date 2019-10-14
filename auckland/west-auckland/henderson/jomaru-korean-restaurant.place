@@ -8,7 +8,6 @@ address:
   city: Auckland
 id:
  - google:ChIJg_0L6EFADW0Rd-QOcikOzw8
-permanentlyClosed: false
 openingHours:
  - 'Monday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
  - 'Tuesday: Closed'
@@ -24,6 +23,7 @@ website: https://www.instagram.com/jomaru.nz/
 latlng: -36.8553073,174.6309688
 tags:
  - cheapeats-2019
+ - cheapeats-2020
  - korean
  - licensed
 summary: 'In this hidden corner of Henderson, you''ll be greeted like family and eat

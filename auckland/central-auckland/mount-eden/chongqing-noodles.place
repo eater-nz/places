@@ -8,7 +8,6 @@ address:
   city: Auckland
 id:
  - google:ChIJyVYCBLVHDW0RSLg7KEFeisI
-permanentlyClosed: false
 openingHours:
  - 'Monday: 11:00 AM – 10:00 PM'
  - 'Tuesday: 11:00 AM – 10:00 PM'
@@ -20,11 +19,11 @@ openingHours:
 phone: 09-631 5689
 rating: 4.5
 rating_count: 40
-website:
 latlng: -36.87905689999999,174.7501929
 tags:
  - cheapeats-2018
  - cheapeats-2019
+ - cheapeats-2020
  - chongqing
  - sichuan
  - vegetarian

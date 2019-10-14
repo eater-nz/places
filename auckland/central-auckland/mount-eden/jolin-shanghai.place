@@ -8,7 +8,6 @@ address:
   city: Auckland
 id:
  - google:ChIJzVKb3bVHDW0RzwswgOYwziA
-permanentlyClosed: false
 openingHours:
  - 'Monday: 11:00 AM – 10:00 PM'
  - 'Tuesday: 5:00 – 10:00 PM'

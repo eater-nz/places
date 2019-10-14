@@ -8,7 +8,6 @@ address:
   city: Auckland
 id:
  - google:ChIJs6qA1INLDW0RtU2dhNRmNEs
-permanentlyClosed: false
 openingHours:
  - 'Monday: 11:00 AM – 9:00 PM'
  - 'Tuesday: 11:00 AM – 9:00 PM'
@@ -20,11 +19,11 @@ openingHours:
 phone: 09-274 4622
 rating: 4.3
 rating_count: 178
-website:
 latlng: -36.9248846,174.8957215
 tags:
  - cantonese
  - cheapeats-2019
+ - cheapeats-2020
  - hong-kong
 summary: The hustle is real and the menu is vast at Hungry Head, where the chef (ex-Kingston
   Noodles) is best known for his affordable Hong Kong noodle soups. Bowls of thin,

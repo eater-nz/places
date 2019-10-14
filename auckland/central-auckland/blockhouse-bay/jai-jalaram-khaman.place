@@ -8,7 +8,6 @@ address:
   city: Auckland
 id:
  - google:ChIJhQ2mJ5pGDW0RVaGrUQJjK7s
-permanentlyClosed: false
 openingHours:
  - 'Monday: Closed'
  - 'Tuesday: 5:00 – 9:00 PM'
@@ -28,6 +27,7 @@ tags:
  - cheapeats-2016
  - cheapeats-2018
  - cheapeats-2019
+ - cheapeats-2020
  - gujarati
  - south-indian
  - vegan

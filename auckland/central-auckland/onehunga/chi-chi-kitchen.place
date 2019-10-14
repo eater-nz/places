@@ -8,7 +8,6 @@ address:
   city: Auckland
 id:
  - google:ChIJM062W8FIDW0RFDdqo9Du_ZQ
-permanentlyClosed: false
 openingHours:
  - 'Monday: 11:30 AM – 2:30 PM, 5:30 – 9:00 PM'
  - 'Tuesday: 11:30 AM – 2:30 PM, 5:30 – 9:00 PM'
@@ -20,7 +19,6 @@ openingHours:
 phone: 09-525 6019
 rating: 4.5
 rating_count: 27
-website:
 latlng: -36.9094875,174.799012
 tags:
  - cheapeats-2019

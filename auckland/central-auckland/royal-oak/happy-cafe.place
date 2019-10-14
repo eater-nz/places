@@ -8,7 +8,6 @@ address:
   city: Auckland
 id:
  - google:ChIJqUXBHqdIDW0RFO17NC_kfHo
-permanentlyClosed: false
 openingHours:
  - 'Monday: 10:30 AM – 9:30 PM'
  - 'Tuesday: 10:30 AM – 9:30 PM'
@@ -20,7 +19,6 @@ openingHours:
 phone: 09-625 8954
 rating: 4.3
 rating_count: 93
-website:
 latlng: -36.9106536,174.7753177
 tags:
  - byo
